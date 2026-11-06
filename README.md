@@ -5,7 +5,7 @@ Bộ cài cho Windows 10 / 11 (64-bit). Nhấp đúp file vừa tải để cài
 | Phần mềm | Dùng để | Tải về |
 |---|---|---|
 | **Dựng Phim** 0.9.0 | Tự dựng video từ kịch bản: giọng đọc AI, cắt ghép footage, phụ đề, xuất 16:9 và 9:16. Dựng tự do không cần kịch bản, tách giọng / nhạc nền / tiếng động, logo kênh, hàng chờ dựng nhiều video | [DungPhim-Setup-0.9.0.exe](https://github.com/phudangngoc244/phanmem/releases/download/dungphim-v0.9.0/DungPhim-Setup-0.9.0.exe) (390 MB) |
-| **Cắt Highlight** 0.7.0 | Cắt highlight phim: tự chia phân cảnh, tóm tắt nội dung, giữ / cắt / lật hình, ghép nhiều tập. Khung hình, logo kênh, chèn hình, tách / thay nhạc nền, hàng chờ xuất nhiều phim | [CatHighlight-Setup-0.7.0.exe](https://github.com/phudangngoc244/phanmem/releases/download/cathighlight-v0.7.0/CatHighlight-Setup-0.7.0.exe) (236 MB) |
+| **Cắt Highlight** 0.7.1 | Cắt highlight phim: tự chia phân cảnh, tóm tắt nội dung, giữ / cắt / lật hình, ghép nhiều tập. Khung hình, logo kênh, chèn hình, tách / thay nhạc nền, hàng chờ xuất nhiều phim | [CatHighlight-Setup-0.7.1.exe](https://github.com/phudangngoc244/phanmem/releases/download/cathighlight-v0.7.1/CatHighlight-Setup-0.7.1.exe) (236 MB) |
 
 Các bản cũ hơn và ghi chú từng bản: [Releases](https://github.com/phudangngoc244/phanmem/releases).
 
