@@ -15,7 +15,7 @@ Các bản cũ hơn và ghi chú từng bản: [Releases](https://github.com/phu
 - **Cần tài khoản.** Mở phần mềm lần đầu sẽ hiện màn hình đăng nhập. Tài khoản do người gửi phần mềm cho bạn cấp.
   Mỗi tài khoản dùng trên số máy đã được cấp; không có mạng vẫn dùng tiếp được 3 ngày.
 - **Đổi sang máy khác:** trên máy cũ bấm **Đăng xuất** (màn hình đầu, hoặc Cài đặt → Tài khoản) để trả lượt máy, rồi
-  đăng nhập trên máy mới. Mỗi phần mềm một tài khoản riêng (tài khoản Cắt Highlight không mở được Chuyển Ngôn Ngữ và ngược lại).
+  đăng nhập trên máy mới. Mỗi phần mềm một tài khoản riêng, riêng **tài khoản Cắt Highlight đăng nhập được luôn Chuyển Ngôn Ngữ** (cùng tên, mật khẩu; một máy dùng cả hai chỉ tính một lượt máy).
 - **Windows có thể cảnh báo** "Windows protected your PC" vì bộ cài chưa ký số: bấm **More info** → **Run anyway**.
 - **API key do bạn tự nhập.** Phần tóm tắt / dịch / giọng đọc bằng AI trên mạng cần key của chính bạn, nhập trong
   **Cài đặt**. Key Gemini miễn phí lấy tại [aistudio.google.com/apikey](https://aistudio.google.com/apikey).
@@ -26,7 +26,7 @@ Các bản cũ hơn và ghi chú từng bản: [Releases](https://github.com/phu
   **Dự án gần đây** / **Mở dự án**. Giữ file `.dungphim` cùng thư mục với footage của dự án.
 - **Cắt Highlight → Dựng Phim:** nút "Mở trong Dựng Phim" của Cắt Highlight cần cài cả Dựng Phim trên cùng máy.
 - **Cắt Highlight → Chuyển Ngôn Ngữ:** nút "Chuyển ngôn ngữ" (sau khi xuất, hoặc trong Hàng chờ) cần cài Chuyển Ngôn Ngữ
-  trên cùng máy. Lần đầu chuyển sang ngôn ngữ khác tiếng Việt, phần mềm tải thêm model giọng ~2.4 GB. Dịch hay nhất khi
+  trên cùng máy, đăng nhập bằng chính tài khoản Cắt Highlight. Lần đầu chuyển sang ngôn ngữ khác tiếng Việt, phần mềm tải thêm model giọng ~2.4 GB. Dịch hay nhất khi
   có key Gemini (miễn phí); không có key thì dùng Google Dịch.
 - **Hàng chờ:** làm xong video nào thì bấm **Xuất video → Thêm vào hàng chờ** rồi làm tiếp video khác; khi sẵn sàng mở
   **Hàng chờ** bấm **Bắt đầu** để máy xuất lần lượt (giống Adobe Media Encoder).
